@@ -5,3 +5,19 @@ This is the second line
 this is the third line
 
 this is the test line. This is me adding something onto the previous commit.
+
+Sarting divergent changes
+
+second divergent changes. New changes here 
+
+and here too
+
+added new line
+
+Added new line for rebaseing
+
+Trying new command for rebasing with head
+
+This is the new commit for rebasing
+Trying new command for rebasing with head
+This is the new commit for rebasing
